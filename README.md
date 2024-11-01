@@ -1,4 +1,4 @@
-![图片](https://github.com/user-attachments/assets/03246e0e-55f9-4950-ae9e-c87e0c947ed9)# 第四届 “网鼎杯” 网络安全大赛 白虎组 初赛
+# 第四届 “网鼎杯” 网络安全大赛 白虎组 初赛
 
 **附件存放在本仓库的 Github Release 中**
 
